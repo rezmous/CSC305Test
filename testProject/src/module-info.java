@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author reza
+ *
+ */
+module testProject {
+}
